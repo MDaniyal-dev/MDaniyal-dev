@@ -1,8 +1,6 @@
 # Hi there, I'm Mohammad Daniyal 👋
 
-## Full-Stack Developer | BCA Final Year | Problem Solver
-
-I'm a passionate Full-Stack Developer specializing in building dynamic web applications and scalable solutions. Currently pursuing my Bachelor of Computer Applications at Abeda Inamdar Senior College, Pune, I combine strong technical skills with a drive to solve real-world problems through code.
+# Full-Stack Developer | BCA Final Year | Problem Solver
 
 ---
 
@@ -16,6 +14,11 @@ I'm a passionate Full-Stack Developer specializing in building dynamic web appli
 
 ---
 
+### 💭 Random Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 ### 🛠️ Tech Stack
 
 **Languages:**
@@ -60,6 +63,17 @@ I'm a passionate Full-Stack Developer specializing in building dynamic web appli
 
 ---
 
+### 💡 Currently Seeking
+
+I'm actively looking for **internship opportunities** and **freelance projects** in:
+- Full-Stack Development
+- Web Application Development
+- Software Development
+
+If you have an exciting project or opportunity, feel free to reach out!
+
+---
+
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MDaniyal-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)
@@ -73,16 +87,3 @@ I'm a passionate Full-Stack Developer specializing in building dynamic web appli
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohddaniyal2017@gmail.com)
 
 ---
-
-### 💡 Currently Seeking
-
-I'm actively looking for **internship opportunities** and **freelance projects** in:
-- Full-Stack Development
-- Web Application Development
-- Software Development
-
-If you have an exciting project or opportunity, feel free to reach out!
-
----
-
-⭐️ From [Mohammad Daniyal](https://github.com/MDaniyal-dev)
