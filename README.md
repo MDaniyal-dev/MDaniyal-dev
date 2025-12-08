@@ -62,7 +62,7 @@ I'm a passionate Full-Stack Developer specializing in building dynamic web appli
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MDaniyal-dev&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MDaniyal-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MDaniyal-dev&layout=compact&theme=tokyonight&hide_border=true)
 ---
