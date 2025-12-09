@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammad Daniyal 👋
+# Hi there 👋, I'm Mohammad Daniyal
 
 # Full-Stack Developer | BCA Final Year | Problem Solver
 
