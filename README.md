@@ -74,12 +74,6 @@ If you have an exciting project or opportunity, feel free to reach out!
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDaniyal-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MDaniyal-dev&layout=compact&theme=tokyonight&hide_border=true)
-
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-daniyal-dev/)
