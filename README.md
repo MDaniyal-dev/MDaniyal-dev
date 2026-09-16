@@ -76,10 +76,9 @@ If you have an exciting project or opportunity, feel free to reach out!
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MDaniyal-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDaniyal-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MDaniyal-dev&layout=compact&theme=tokyonight&hide_border=true)
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MDaniyal-dev&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 🤝 Let's Connect
 
