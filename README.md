@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mohammad Daniyal
 
-# Full-Stack Developer | BCA Final Year | Problem Solver
+# Full-Stack Developer | BCA Graduate | Problem Solver
 
 ---
 
